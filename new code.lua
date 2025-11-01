@@ -7,7 +7,7 @@ local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
 -- CONFIG
-local UI_TITLE = "✨ MiniTool"
+local UI_TITLE = "VIET NAM"
 local DEFAULT_SPEED = 16
 local SPEED_STEP = 8
 

